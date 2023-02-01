@@ -24,8 +24,9 @@
 
 
 ### 🔧 Languages and Tools:
-
-i=java,react,html,spring,vscode,idea,visualstudio,mysql,nodejs,jquery,linkedin,postgres,mongodb,maven,hibernate,githubactions,github,discord,css,bootstrap,aws,git,kubernetes,docker,powershell,ps,linux,wordpress,stackoverflow" />
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src=java,react,html,spring,vscode,idea,visualstudio,mysql,nodejs,jquery,linkedin,postgres,mongodb,maven,hibernate,githubactions,github,discord,css,bootstrap,aws,git,kubernetes,docker,powershell,ps,linux,wordpress,stackoverflow" />
   </a>
 </p>
 
