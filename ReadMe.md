@@ -40,7 +40,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=java,react,html,spring,vscode,idea,visualstudio,mysql,nodejs,jsjquery,linkedin,postgres,mongodb,maven,hibernate,githubactions,github,discord,css,bootstrap,aws,git,kubernetes,docker,powershell,ps,linux,wordpress,stackoverflow" />
   </a>
 </p>
 
