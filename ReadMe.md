@@ -24,5 +24,5 @@
 [bionluk]: 
 [linkedin]: https://www.linkedin.com/in/yusuf-tekmil-developer
 [medium]: 
-[gmail]: mailto:yusuftekmil.yt@gmail.com
+[gmail]: yusuftekmil.yt@gmail.com
 <br />
