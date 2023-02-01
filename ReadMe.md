@@ -11,13 +11,11 @@
 
 ### 📩 Connect with me:
 
-[<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg" />][instagram]
-[<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" />][gmail]
-
-<br />
-
-[linkedin]: https://www.linkedin.com/in/yusuf-tekmil-developer
-[gmail]: yusuftekmil.yt@gmail.com
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=instagram,linkedin,twitter" />
+  </a>
+</p>
 
 <br />
 
@@ -27,7 +25,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,maven,hibernate,react,javascript,html,bootstrap,css,vscode,idea,visualstudio,github,postgres,mysql,mongodb,docker,aws,nodejs,jquery,githubactions,git,discord,linkedin,powershell,kubernetes,ps,linux,wordpress,stackoverflow" />
+    <img src="https://skillicons.dev/icons?i=java,spring,maven,hibernate,react,javascript,html,bootstrap,css,vscode,idea,visualstudio,github,postgres,mysql,mongodb,docker,aws,nodejs,jquery,githubactions,git,discord,powershell,kubernetes,ps,linux,wordpress,stackoverflow" />
   </a>
 </p>
 <br />
