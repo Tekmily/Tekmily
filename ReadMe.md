@@ -12,9 +12,9 @@
 ### 📩 Connect with me:
 
 <p align="center">
-  <a href="https://twitter.com/iolardemartini" target="_blank">
+*/  <a href="https://twitter.com/iolardemartini" target="_blank">
     <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=071A2C" alt="Twitter"/>
-  </a>
+  </a>*/
   <a href="https://www.linkedin.com/in/yusuf-tekmil-developer" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=071A2C" alt="LinkedIn"/>
   </a>
