@@ -24,9 +24,9 @@
   <a href="https://medium.com/@yusuftekmil.yt" target="_blank">
     <img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white&color=071A2C" alt="Medium"/>
   </a>
-  <a href="https://www.facebook.com/iolardemartini" target="_blank">
+ <!-- <a href="https://www.facebook.com/iolardemartini" target="_blank">
     <img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white&color=071A2C" alt="Facebook"/>
-  </a>
+  </a> -->
 </p>
 <br />
 
