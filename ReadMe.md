@@ -39,6 +39,9 @@
     <img src="https://skillicons.dev/icons?i=java,spring,maven,hibernate,react,javascript,html,bootstrap,css,vscode,idea,visualstudio,github,postgres,mysql,mongodb,docker,aws,nodejs,jquery,githubactions,git,discord,powershell,kubernetes,ps,linux,wordpress,stackoverflow" />
   </a>
 </p>
+<a href="https://prettier.io">
+  <img width="50" title="Prettier" alt="Prettier Logo" src="https://prettier.io/icon.png">
+</a>
 <br />
 
 
