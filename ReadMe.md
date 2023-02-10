@@ -1,4 +1,4 @@
-<img align="right" alt="GIF" color="green" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="250" height="150" />
+<img align="right" alt="GIF" color="green" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="300" height="200" />
 
 ##  Full Stack Developer 🚀
 - 🔭 I’m currently working on a large and special application.
