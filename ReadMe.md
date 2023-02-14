@@ -1,4 +1,4 @@
-<img align="right" alt="GIF" color="green" src="https://media.tenor.com/Li7HobCHqa0AAAAj/trial.gif" width="300" height="200" />
+
 
 <img align="right" alt="GIF" color="green" src="https://img.etimg.com/thumb/msid-84146083,width-1015,height-761,imgsize-638053,resizemode-8/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg" width="300" height="200" />
 
@@ -9,6 +9,8 @@
 - 🤔 I’m looking for help with Flutter front-end developer
 - 🥅 2023Goals: Developing an app to be heard in the world 🌎 and learning artificial intelligence 🤖
 - ⚡ Fun fact: I love to swim 🏊‍♀️, play chess ♟, play basketball 🏀 and cycling 🚴‍♀️
+
+<img align="right" alt="GIF" color="green" src="https://media.tenor.com/Li7HobCHqa0AAAAj/trial.gif" width="300" height="200" />
 
 
 ### 📩 Connect with me:
