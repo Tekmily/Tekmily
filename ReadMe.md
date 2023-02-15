@@ -47,7 +47,7 @@
 [git]: https://git-scm.com/
 [github]: https://github.com/IbrahimTalha0
 
-<img align="right" alt="GIF" color="green" src="https://img.etimg.com/thumb/msid-84146083,width-1015,height-761,imgsize-638053,resizemode-8/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg" width="300" height="200" />
+<img align="right" alt="GIF" color="green" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966" width="300" height="200" />
 
 
 
