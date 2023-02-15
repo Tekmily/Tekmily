@@ -10,7 +10,7 @@
 - 🥅 2023Goals: Developing an app to be heard in the world 🌎 and learning artificial intelligence 🤖
 - ⚡ Fun fact: I love to swim 🏊‍♀️, play chess ♟, play basketball 🏀 and cycling 🚴‍♀️
 
-<img align="right" alt="GIF" color="green" src="[https://media.tenor.com/Li7HobCHqa0AAAAj/trial.gif](https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif)" width="300" height="200" />
+<img align="right" alt="GIF" color="green" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" width="300" height="200" />
 
 
 ### 📩 Connect with me:
