@@ -1,8 +1,6 @@
 
-
-<img align="right" alt="GIF" color="green" src="https://img.etimg.com/thumb/msid-84146083,width-1015,height-761,imgsize-638053,resizemode-8/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg" width="300" height="200" />
-
 <img align="right" alt="GIF" color="green" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" width="300" height="200" />
+
 ##  Full Stack Developer 🚀
 - 🔭 I’m currently working on a large and special application.
 - 🌱 I’m currently learning 😂
@@ -34,7 +32,7 @@
 <br />
 
 
-
+<img align="right" alt="GIF" color="green" src="https://img.etimg.com/thumb/msid-84146083,width-1015,height-761,imgsize-638053,resizemode-8/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg" width="300" height="200" />
 ### 🔧 Languages and Tools:
 
 <p align="center">
