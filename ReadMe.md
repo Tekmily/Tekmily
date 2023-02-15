@@ -30,9 +30,6 @@
   </a> -->
 </p>
 <br />
-
-
-<img align="right" alt="GIF" color="green" src="https://img.etimg.com/thumb/msid-84146083,width-1015,height-761,imgsize-638053,resizemode-8/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg" width="300" height="200" />
 ### 🔧 Languages and Tools:
 
 <p align="center">
@@ -50,10 +47,7 @@
 [git]: https://git-scm.com/
 [github]: https://github.com/IbrahimTalha0
 
-
-<br />
-<br />
-
+<img align="right" alt="GIF" color="green" src="https://img.etimg.com/thumb/msid-84146083,width-1015,height-761,imgsize-638053,resizemode-8/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg" width="300" height="200" />
 
 
 
