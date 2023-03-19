@@ -26,17 +26,7 @@
 
 
 <div align="center">
-    <a href="https://github.com/h-ssiqueira/h-ssiqueira">
-	<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=h-ssiqueira&layout=compact&langs_count=10&theme=tokyonight&title_color=2895BC&hide=VHDL,Stata&custom_title=Most%20recently%20used%20languages" alt="Most recently used languages">
-    <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=h-ssiqueira&hide=issues&show_icons=true&theme=tokyonight&hideborder=true&title_color=2895BC&icon_color=FE0000&include_all_commits=true" alt="GitHub stats">
-	<img src="https://github-readme-activity-graph.cyclic.app/graph?username=h-ssiqueira&custom_title=Recently%20contributions&hide_border=true&area=true&area_color=2895BC&point=FE0000&line=2895BC&theme=react-dark" alt="Recently contributions graph">
-	<img src="https://github.com/h-ssiqueira/h-ssiqueira/blob/output/dist/github-contribution-grid-snake.svg" alt="Snake animation">
-	</a>
-	<br>
-	<details open>
-		<summary>More statistics</summary>
-		<img src="https://github.com/h-ssiqueira/h-ssiqueira/blob/output/profile-3d-contrib/profile-night-green.svg" alt="profile-3d">
-		<br>
+   
 		<a href="https://info.flagcounter.com/FWys"><img src="https://s04.flagcounter.com/count2/FWys/bg_1A1B27/txt_2895BC/border_DBDBDB/columns_5/maxflags_20/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
 	</details>
 </div>
