@@ -39,7 +39,7 @@
 <img align="right" alt="GIF" color="green" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" width="300" height="200" />
 
 ##  Full Stack Developer 🚀
-- 🔭 I’m currently working on a large and special application.
+- 🔭 I’m currently working  and special application.
 - 🌱 I’m currently learning 😂
 - 🥅 2023Goals: Developing an app to be heard in the world 🌎 and learning artificial intelligence 🤖
 - ⚡ Fun fact: I love to swim 🏊‍♀️, play chess ♟, play basketball 🏀 and cycling 🚴‍♀️
