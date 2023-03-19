@@ -30,11 +30,12 @@
 <br />
 
 
-![Github stats 2](https://github-readme-stats.vercel.app/api?username=Tekmily&show_icons=true&theme=radical)
+![Github stats 2](https://github-readme-stats.vercel.app/api?username=Tekmily&show_icons=true&theme=transparent)
 <br/>
-<img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Tekmily&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia" alt="mukireus"/>
+<img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Tekmily&show_icons=true&locale=en&layout=compact&langs_count=8&theme=transparent" alt="mukireus"/>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Tekmily&theme=transparent)](https://git.io/streak-stats)
+
 ### 🔧 Languages and Tools:
 
 <p align="center">
