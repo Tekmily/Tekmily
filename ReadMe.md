@@ -25,19 +25,23 @@
 
 
 
+<div align="center">
+    <a href="https://github.com/h-ssiqueira/h-ssiqueira">
+	<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=h-ssiqueira&layout=compact&langs_count=10&theme=tokyonight&title_color=2895BC&hide=VHDL,Stata&custom_title=Most%20recently%20used%20languages" alt="Most recently used languages">
+    <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=h-ssiqueira&hide=issues&show_icons=true&theme=tokyonight&hideborder=true&title_color=2895BC&icon_color=FE0000&include_all_commits=true" alt="GitHub stats">
+	<img src="https://github-readme-activity-graph.cyclic.app/graph?username=h-ssiqueira&custom_title=Recently%20contributions&hide_border=true&area=true&area_color=2895BC&point=FE0000&line=2895BC&theme=react-dark" alt="Recently contributions graph">
+	<img src="https://github.com/h-ssiqueira/h-ssiqueira/blob/output/dist/github-contribution-grid-snake.svg" alt="Snake animation">
+	</a>
+	<br>
+	<details open>
+		<summary>More statistics</summary>
+		<img src="https://github.com/h-ssiqueira/h-ssiqueira/blob/output/profile-3d-contrib/profile-night-green.svg" alt="profile-3d">
+		<br>
+		<a href="https://info.flagcounter.com/FWys"><img src="https://s04.flagcounter.com/count2/FWys/bg_1A1B27/txt_2895BC/border_DBDBDB/columns_5/maxflags_20/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
+	</details>
+</div>
 
 
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100 &section=header&text=capsule%20render&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Decorate%20GitHub%20Profile%20or%20any%20Repo%20like%20me!&descAlignY=51&descAlign=62)
-<p align='center'>Hi I'm Yusuf TEKMİL </p>
-<p align='center'>
-  <a href="https://github.com/kyechan99/capsule-render/labels/Idea">
-    <img src="https://img.shields.io/badge/IDEA%20ISSUE%20-%23F7DF1E.svg?&style=for-the-badge&&logoColor=white"/>
-  </a>
-  <a href="#demo">
-    <img src="https://img.shields.io/badge/DEMO%20-%234FC08D.svg?&style=for-the-badge&&logoColor=white"/>
-  </a>
-</p>
 
 
 
