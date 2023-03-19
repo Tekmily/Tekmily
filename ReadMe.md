@@ -21,16 +21,7 @@
 <a href="#"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=fa3e3e" /></a>
 
 
-
-
-
-
-<div align="center">
-   
-		<a href="https://info.flagcounter.com/FWys"><img src="https://s04.flagcounter.com/count2/FWys/bg_1A1B27/txt_2895BC/border_DBDBDB/columns_5/maxflags_20/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
-	</details>
-</div>
-
+[<img src="https://{DOMAIN_OF_YOUR_VERCEL_APP}/api/run-spotify-status" alt="Your alt what" width="500" />](LINK_TO_YOUR_ACCOUNT)
 
 
 
