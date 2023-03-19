@@ -24,7 +24,11 @@
 [<img src="https://{[DOMAIN_OF_YOUR_VERCEL_APP](https://open.spotify.com/track/7BhmwvCdQZNwuQXSHw5TzP)}/api/run-spotify-status" alt="Your alt what" width="500" />](LINK_TO_YOUR_ACCOUNT)
 
 
-
+<a href="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"><img align="center" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="WavingHand-gif"/></a> Heya folks, i'm Júlio!
+ 
+**▸ I'm currently studying System Analysis and \
+Development at [**IFRO Campus Ji-Paraná**](https://portal.ifro.edu.br/ji-parana), \
+and i'm aiming to start as a Front-End Developer!**
 
 
 
