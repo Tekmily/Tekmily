@@ -1,3 +1,6 @@
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
+
+
 
 <img align="right" alt="GIF" color="green" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" width="300" height="200" />
 
