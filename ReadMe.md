@@ -99,3 +99,108 @@
 
 <a href="#"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=#adfbf4" /></a>
 
+
+
+
+<div align="center">
+ 
+<a href="#">![waving](https://capsule-render.vercel.app/api?type=waving&height=175&color=fa3e3e&text="Heya%20folks,%20i'm%20Júlio!"&desc=And%20i'm%20aiming%20to%20be%20a%20Front-End%20Developer!&fontColor=e4e4e4&fontSize=40&fontAlign=50&fontAlignY=25&descAlign=50&descAlignY=43)</a>
+</div>
+
+<!-- ABOUT ME -->
+
+# About me: <a href="#"><img align="right" src="https://komarev.com/ghpvc/?username=juletopi&color=ee3d3d" alt="Juletopi-profileviews"></a> <a href="#"><img align="right" src="https://img.shields.io/github/followers/juletopi?label=Follow%20me%21&style=social" alt="Juletopi-followme"></a> </div>
+
+<div align="left">
+
+### <a href="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"><img align="center" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="WavingHand-gif"/></a> Heya folks, i'm Júlio!
+ 
+**▸ I'm currently studying System Analysis and \
+Development at [**IFRO Campus Ji-Paraná**](https://portal.ifro.edu.br/ji-parana), \
+and i'm aiming to start as a Front-End Developer!**
+ 
+### <a href="https://media.giphy.com/media/L1JVwZwVzoyK9dvrfr/giphy.gif"><img align="center" src="https://media.giphy.com/media/L1JVwZwVzoyK9dvrfr/giphy.gif" width="37" alt="MagicCube-gif"/></a> About my hobbies, I like:
+
+🎮 `Games` • 🎲 `RPG` • 🖌️ `Illustration` • 📚 `Learning` \
+&#8199;&#8199;&#8199;&#8199;&#8199;&#8196; 🚲 `Biking` • 🎧 `Music` • 🍜 `Anime`
+
+### <a href="https://media.giphy.com/media/r6g6PL4fMY7NgruRTh/giphy.gif"><img align="center" src="https://media.giphy.com/media/r6g6PL4fMY7NgruRTh/giphy.gif" width="28" alt="Studing-gif"/></a> In what I study for now, I can quote:
+ 
+- **Algorithms & Programming Logic**
+- **Visual Programming Language**
+- **Software Engineering**
+- **Operational Systems**
+- **Databases**
+
+### <a href="https://media.giphy.com/media/iItk7D6h2NLoznuU89/giphy.gif"><img align="center" src="https://media.giphy.com/media/iItk7D6h2NLoznuU89/giphy.gif" width="32" alt="SpeechBubble-gif"/></a> Socials & Contacts:
+
+<a href="https://www.linkedin.com/in/julio-cezar-pereira-camargo/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="LinkedIn-icon"></a>&nbsp;&nbsp;
+<a href="http://lattes.cnpq.br/7789116592509780"><img src="https://user-images.githubusercontent.com/76459155/224547293-81038d80-ab3d-4efb-8213-97a3163f1b45.png" height="40" alt="Lattes-icon"></a>&nbsp;&nbsp;
+<a href="https://open.spotify.com/user/7qje4cjhxymamlcmxzo749qvo"><img src="https://cdn3.emoji.gg/emojis/SpotifyLogo.png" height="40" alt="Spotify-icon"></a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/juletopi/"><img src="https://cdn3.emoji.gg/emojis/6333-instagram.png" height="40" alt="Instagram-icon"></a>&nbsp;&nbsp;
+<a href="https://www.facebook.com/profile.php?id=100006955867774"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" height="40" alt="Facebook-icon"></a>&nbsp;&nbsp;
+<a href="mailto:juliocezarpvh@hotmail.com"><img src="https://pngimg.com/uploads/email/email_PNG100738.png" height="40" alt="Email-icon"></a>&nbsp;&nbsp;
+<a href="http://api.whatsapp.com/send?phone=5569993606894"><img src="https://cdn3.emoji.gg/emojis/6158-whatsapp.png" height="40" alt="WhatsApp-icon"></a> \
+<sub>**"Use `ctrl + click` to open it in a new window!"**</sub>
+</div>
+
+<!-- STATS -->
+
+<div align="center">
+ 
+## <a href="https://media.giphy.com/media/MF3pE1wwVczhKkaSlg/giphy.gif"><img align="center" src="https://media.giphy.com/media/MF3pE1wwVczhKkaSlg/giphy.gif" height="40" alt="DataChart-gif"></a>&#160; My GitHub Stats:
+
+<a href="https://github.com/juletopi/"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=juletopi&bg_color=0e1118&hide_border=true&custom_title=Contribution%20Graph&area=true&area_color=e73737&title_color=e73737&line=e73737&point=e73737&theme=high-contrast" width="800" alt="JuletopiContribution-graph"></a>
+
+<img align="center" src="https://capsule-render.vercel.app/api?type=rect&color=da2828&height=3&section=header&%20render">
+
+<a href="https://github.com/juletopi/"><img src="https://github-readme-stats.vercel.app/api?username=juletopi&show_icons=true&count_private=true&include_all_commits=true&theme=codeSTACKr&title_color=e73737&icon_color=e73737&border_color=0d1017&bg_color=0e1118" width="460" alt="Juletopi-stats"></a>
+<a href="https://github.com/juletopi/"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juletopi&layout=compact&langs_count=7&theme=codeSTACKr&title_color=e73737&icon_color=e73737&border_color=0e1118&bg_color=0e1118" width="380" alt="JuletopiTopLangs-stats"></a>
+
+<img align="center" src="https://capsule-render.vercel.app/api?type=rect&color=da2828&height=3&section=header&%20render">
+
+<a href="https://github.com/juletopi/"><img src="https://github-readme-streak-stats.herokuapp.com/?user=juletopi&theme=dark&ring=e73737&currStreakNum=ffffff&fire=eaa532&currStreakLabel=eaa532&hide_border=true&background=0E1118" width="540" alt="JuletopiStreak-stats"></a>
+</div>
+
+<!-- LEARNING -->
+
+<div align="center">
+
+## <a href="https://github.com/juletopi/juletopi/blob/main/Assets/Custom%20Emojis/ProgrammingLanguage-gif.gif"><img align="center" src="https://user-images.githubusercontent.com/76459155/201819920-51947fdf-2f1f-4a77-81f4-f0684a16f8ea.gif" height="38" alt="ProgrammingLanguage-gif"></a>&#160; What am I currently learning?
+<br>
+
+<table><tr><td valign="top" width="33%">
+
+## Languages:
+<div align="center">  
+<a href="https://www.w3schools.com/html/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5-icon" height="38" /></a>&nbsp;&nbsp;
+<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3-icon" height="38" /></a>&nbsp;&nbsp;
+<a href="https://www.w3schools.com/js/" target="_blank"><img style="margin: 10px" src="https://user-images.githubusercontent.com/76459155/206292753-bfe169cf-e67c-4025-a2c6-6b4be980a871.png" alt="JavaScript-icon" height="40" /></a>&nbsp;&nbsp;
+<a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="CSharp-icon" height="38" /></a>&nbsp;&nbsp;
+<a href="https://www.codecademy.com/resources/blog/what-is-r-used-for/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="RLanguage-icon" height="38" /></a>
+</div>
+
+</td><td valign="top" width="33%">
+
+## IDEs:  
+<div align="center">
+<a href="https://visualstudio.microsoft.com/" target="_blank"><img style="margin: 10px" src="https://user-images.githubusercontent.com/76459155/206295363-eccfe2ef-9e37-4121-8d0b-73118731b014.png" alt="VisualStudio-icon" height="38" /></a>&nbsp;&nbsp;
+<a href="https://code.visualstudio.com/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode-icon" height="38" /></a>&nbsp;&nbsp;
+<a href="https://www.datacamp.com/tutorial/r-studio-tutorial" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" alt="RStudio-icon" height="38" /></a>
+</div>
+
+</td><td valign="top" width="33%">
+
+## Tools:
+<div align="center">
+<a href="https://en.wikipedia.org/wiki/GitHub" target="_blank"><img style="margin: 10px" src="https://img.icons8.com/fluency/48/000000/github.png" alt="GitHub-icon" height="45" /></a>&nbsp;
+<a href="https://en.wikipedia.org/wiki/Git" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git-icon" height="38" /></a>&nbsp;
+<a href="https://www.theme-junkie.com/what-is-figma/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma-icon" height="38" /></a>
+</div>
+
+</td></tr></table>
+
+<br/>
+
+<a href="#"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=fa3e3e" /></a>
+
