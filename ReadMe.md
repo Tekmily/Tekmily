@@ -99,7 +99,7 @@
 
 
 
-<a href="#"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=#5c9ffd" /></a>
+<a href="#"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=#539bf5" /></a>
 
 
 
