@@ -1,3 +1,24 @@
+<!--
+❗ ➤ References used in this Repository:
+🔗 • https://github.com/kyechan99/capsule-render
+🔗 • https://github.com/antonkomarev/github-profile-views-counter
+🔗 • https://github.com/DenverCoder1/custom-icon-badges
+🔗 • https://github.com/DenverCoder1/github-readme-streak-stats
+🔗 • https://github.com/Ashutosh00710/github-readme-activity-graph
+🔗 • https://github.com/anuraghazra/github-readme-stats
+🔗 • https://github.com/alexandresanlim/Badges4-README.md-Profile
+🔗 • https://profilepicturemaker.com
+🔗 • https://devicon.dev
+🔗 • https://shields.io
+🔗 • https://giphy.com
+🔗 • https://emoji.gg
+🔗 • https://getemoji.com
+-->
+
+
+
+
+
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Tekmily&data=followers,repositories,stars,commits&theme=viridescent)](https://github.com/Jurredr/github-widgetbox)
 
 <img align="right" alt="GIF" color="green" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" width="300" height="200" />
