@@ -17,6 +17,46 @@
 
 
 
+## Tools:
+<div align="center">
+<a href="https://en.wikipedia.org/wiki/GitHub" target="_blank"><img style="margin: 10px" src="https://img.icons8.com/fluency/48/000000/github.png" alt="GitHub-icon" height="45" /></a>&nbsp;
+<a href="https://en.wikipedia.org/wiki/Git" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git-icon" height="38" /></a>&nbsp;
+<a href="https://www.theme-junkie.com/what-is-figma/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma-icon" height="38" /></a>
+</div>
+
+</td></tr></table>
+
+<br/>
+
+<a href="#"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=fa3e3e" /></a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Tekmily&data=followers,repositories,stars,commits&theme=viridescent)](https://github.com/Jurredr/github-widgetbox)
