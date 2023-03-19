@@ -18,17 +18,11 @@
 
 
 
-<a href="#"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=fa3e3e" /></a>
 
 
-[<img src="https://{[DOMAIN_OF_YOUR_VERCEL_APP](https://open.spotify.com/track/7BhmwvCdQZNwuQXSHw5TzP)}/api/run-spotify-status" alt="Your alt what" width="500" />](LINK_TO_YOUR_ACCOUNT)
 
 
-<a href="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"><img align="center" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="WavingHand-gif"/></a> Heya folks, i'm Júlio!
- 
-**▸ I'm currently studying System Analysis and \
-Development at [**IFRO Campus Ji-Paraná**](https://portal.ifro.edu.br/ji-parana), \
-and i'm aiming to start as a Front-End Developer!**
+
 
 
 
@@ -104,5 +98,5 @@ and i'm aiming to start as a Front-End Developer!**
 <img align="right" alt="GIF" color="green" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966" width="300" height="200" />
 
 
-
+<a href="#"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=Waving" /></a>
 
