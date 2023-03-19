@@ -60,7 +60,7 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Tekmily&theme=transparent)](https://git.io/streak-stats)
 
 
-<a href="#"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=#adfbf4" /></a>
+<a href="#"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=57ab5a" /></a>
 
 ### 🔧 Languages and Tools:
 
