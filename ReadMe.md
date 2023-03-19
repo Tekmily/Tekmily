@@ -33,6 +33,10 @@
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=Tekmily&show_icons=true&theme=radical)
 <br/>
 <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Tekmily&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia" alt="mukireus"/>
+
+<a href="https://play.google.com/store/apps/details?id=com.turkiyedenHaberler"><img align="left" alt="Türkiye'den Haberler" width="100px" src="https://play-lh.googleusercontent.com/97NpinL4HmRxLDmIPKfCfrZNjf6Vvj3dL8mMIJ7YyLjYzhEKBauicV9stdls0pmVhw=s180-rw" /></a>
+
+
 ### 🔧 Languages and Tools:
 
 <p align="center">
