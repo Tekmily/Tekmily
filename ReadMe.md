@@ -107,19 +107,7 @@
 <a href="#">![waving](https://capsule-render.vercel.app/api?type=waving&height=175&color=fa3e3e&text="Heya%20folks,%20i'm%20Júlio!"&desc=And%20i'm%20aiming%20to%20be%20a%20Front-End%20Developer!&fontColor=e4e4e4&fontSize=40&fontAlign=50&fontAlignY=25&descAlign=50&descAlignY=43)</a>
 </div>
 
-<!-- ABOUT ME -->
 
-# About me: <a href="#"><img align="right" src="https://komarev.com/ghpvc/?username=juletopi&color=ee3d3d" alt="Juletopi-profileviews"></a> <a href="#"><img align="right" src="https://img.shields.io/github/followers/juletopi?label=Follow%20me%21&style=social" alt="Juletopi-followme"></a> </div>
-
-<div align="left">
-
-### <a href="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"><img align="center" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="WavingHand-gif"/></a> Heya folks, i'm Júlio!
- 
-**▸ I'm currently studying System Analysis and \
-Development at [**IFRO Campus Ji-Paraná**](https://portal.ifro.edu.br/ji-parana), \
-and i'm aiming to start as a Front-End Developer!**
- 
-### <a href="https://media.giphy.com/media/L1JVwZwVzoyK9dvrfr/giphy.gif"><img align="center" src="https://media.giphy.com/media/L1JVwZwVzoyK9dvrfr/giphy.gif" width="37" alt="MagicCube-gif"/></a> About my hobbies, I like:
 
 🎮 `Games` • 🎲 `RPG` • 🖌️ `Illustration` • 📚 `Learning` \
 &#8199;&#8199;&#8199;&#8199;&#8199;&#8196; 🚲 `Biking` • 🎧 `Music` • 🍜 `Anime`
@@ -132,17 +120,7 @@ and i'm aiming to start as a Front-End Developer!**
 - **Operational Systems**
 - **Databases**
 
-### <a href="https://media.giphy.com/media/iItk7D6h2NLoznuU89/giphy.gif"><img align="center" src="https://media.giphy.com/media/iItk7D6h2NLoznuU89/giphy.gif" width="32" alt="SpeechBubble-gif"/></a> Socials & Contacts:
 
-<a href="https://www.linkedin.com/in/julio-cezar-pereira-camargo/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="LinkedIn-icon"></a>&nbsp;&nbsp;
-<a href="http://lattes.cnpq.br/7789116592509780"><img src="https://user-images.githubusercontent.com/76459155/224547293-81038d80-ab3d-4efb-8213-97a3163f1b45.png" height="40" alt="Lattes-icon"></a>&nbsp;&nbsp;
-<a href="https://open.spotify.com/user/7qje4cjhxymamlcmxzo749qvo"><img src="https://cdn3.emoji.gg/emojis/SpotifyLogo.png" height="40" alt="Spotify-icon"></a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/juletopi/"><img src="https://cdn3.emoji.gg/emojis/6333-instagram.png" height="40" alt="Instagram-icon"></a>&nbsp;&nbsp;
-<a href="https://www.facebook.com/profile.php?id=100006955867774"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" height="40" alt="Facebook-icon"></a>&nbsp;&nbsp;
-<a href="mailto:juliocezarpvh@hotmail.com"><img src="https://pngimg.com/uploads/email/email_PNG100738.png" height="40" alt="Email-icon"></a>&nbsp;&nbsp;
-<a href="http://api.whatsapp.com/send?phone=5569993606894"><img src="https://cdn3.emoji.gg/emojis/6158-whatsapp.png" height="40" alt="WhatsApp-icon"></a> \
-<sub>**"Use `ctrl + click` to open it in a new window!"**</sub>
-</div>
 
 <!-- STATS -->
 
