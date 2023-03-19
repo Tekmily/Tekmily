@@ -34,7 +34,7 @@
 
 
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Tekmily&data=followers,repositories,stars,commits&theme=viridescent)](https://github.com/Jurredr/github-widgetbox)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Tekmily&data=followers,repositories,stars,commits&theme=viridescent)]([https://github.com/Jurredr](https://github.com/Tekmily)
 
 <img align="right" alt="GIF" color="green" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" width="300" height="200" />
 
