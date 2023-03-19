@@ -93,9 +93,9 @@
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent)](https://github.com/piyushsuthar/github-readme-quotes)
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31ma5asa62ek6bhqqmchouarsjay&cover_image=true&theme=default&show_offline=false&background_color=808080&interchange=false&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile) 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31ma5asa62ek6bhqqmchouarsjay&cover_image=true&theme=default&show_online=false&background_color=808080&interchange=false&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile) 
 
-<img align="right" alt="GIF" color="green" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966" width="300" height="200" />
+
 
 
 <a href="#"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=#adfbf4" /></a>
