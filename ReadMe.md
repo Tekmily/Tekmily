@@ -104,7 +104,7 @@
 
 <div align="center">
  
-<a href="#">![waving](https://capsule-render.vercel.app/api?type=waving&height=175&color=fa3e3e&text="Hi%20,%20i'm%20Yusuf"&desc=And%20i'm%20aiming%20to%20be%20a%20Front-End%20Developer!&fontColor=e4e4e4&fontSize=40&fontAlign=50&fontAlignY=25&descAlign=50&descAlignY=43)</a>
+<a href="#">![waving](https://capsule-render.vercel.app/api?type=waving&height=175&color=fa3e3e&text="Hi%20,%20i'm%20Yusuf TEKMİL"&desc=And%20i'm%20aiming%20to%20be%20a%20Front-End%20Developer!&fontColor=e4e4e4&fontSize=40&fontAlign=50&fontAlignY=25&descAlign=50&descAlignY=43)</a>
 </div>
 
 
