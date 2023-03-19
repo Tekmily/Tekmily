@@ -91,7 +91,7 @@
 
 
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31ma5asa62ek6bhqqmchouarsjay&cover_image=true&theme=default&show_online=false&background_color=808080&interchange=false&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile) 
+
 
 
 
