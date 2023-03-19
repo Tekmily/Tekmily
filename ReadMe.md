@@ -22,7 +22,7 @@
 <a href="#">![waving](https://capsule-render.vercel.app/api?type=waving&height=175&color=fa3e3e&text="Hi%20,%20i'm%20Yusufm%20TEKMİL"&desc=Full%20Stack%20Developer&fontColor=fff&fontSize=40&fontAlign=50&fontAlignY=25&descAlign=50&descAlignY=43)</a>
 </div>
 
-<img align="right" alt="GIF" color="green" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" width="300" height="200" />
+<img align="right" alt="GIF" color="transparent" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" width="300" height="200" />
 
 ##  Full Stack Developer 🚀
 - 🔭 
