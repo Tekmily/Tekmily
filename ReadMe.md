@@ -21,7 +21,7 @@
 <a href="#"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=fa3e3e" /></a>
 
 
-[<img src="https://{DOMAIN_OF_YOUR_VERCEL_APP}/api/run-spotify-status" alt="Your alt what" width="500" />](LINK_TO_YOUR_ACCOUNT)
+[<img src="https://{[DOMAIN_OF_YOUR_VERCEL_APP](https://open.spotify.com/track/7BhmwvCdQZNwuQXSHw5TzP)}/api/run-spotify-status" alt="Your alt what" width="500" />](LINK_TO_YOUR_ACCOUNT)
 
 
 
