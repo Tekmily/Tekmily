@@ -28,7 +28,7 @@
 - 🔭 
 - 🌱 I’m currently learning 😂
 - 🥅  🌎 and learning artificial intelligence 🤖
-- ⚡ Fun fact: I love to swim 🏊‍♀️, play chess ♟, play basketball 🏀 and cycling 🚴‍♀️
+
 
 
 <a href="#"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=ff7600" /></a>
