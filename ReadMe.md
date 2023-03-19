@@ -18,7 +18,7 @@
 
 
 
-<a href="#"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&section=top&color=Waving" /></a>
+<a href="#"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&section=top&color=Waving" />Hi I'm Yusuf TEKMİL</a>
 
 
 
