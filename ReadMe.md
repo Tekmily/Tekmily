@@ -24,12 +24,12 @@
 
 
 
-
+- <img align="right" alt="GIF" color="transparent" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" width="300" height="200" />
 - 🔭 
 - 🌱 I’m currently learning 😂
 - 🥅  🌎 and learning artificial intelligence 🤖
 - ⚡ Fun fact: I love to swim 🏊‍♀️, play chess ♟, play basketball 🏀 and cycling 🚴‍♀️
-- <img align="right" alt="GIF" color="transparent" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" width="300" height="200" />
+
 
 <a href="#"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=ff7600" /></a>
 
