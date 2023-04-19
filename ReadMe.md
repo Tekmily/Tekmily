@@ -24,7 +24,7 @@
 
 
 
-- <img align="right" alt="GIF" color="transparent" src="[https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif]" width="300" height="200" />
+- <img align="right" alt="GIF" color="transparent" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" width="300" height="200" />
 - 🔭 
 - 🌱 I’m currently learning 😂
 - 🥅  🌎 and learning artificial intelligence 🤖
