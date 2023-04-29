@@ -229,6 +229,6 @@
 
 
 
-<a href="#"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=fa3e3e" /></a>
+<a href="#"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=98D8AA" /></a>
  </div>
 
