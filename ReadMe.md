@@ -212,7 +212,7 @@
 [git]: https://git-scm.com/
 [github]: https://github.com/IbrahimTalha0 -->
 
-<a href="#"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=539bf5" /></a>
+<a href="#"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=ADE4DB" /></a>
 
 🎮 `Games` • 🎲 `RPG` • 🖌️ `Illustration` • 📚 `Learning` \
 &#8199;&#8199;&#8199;&#8199;&#8199;&#8196; 🚲 `Biking` • 🎧 `Music` • 🍜 `Anime`
