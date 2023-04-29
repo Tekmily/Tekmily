@@ -4,7 +4,6 @@
  <img align="center" alt="GIF" color="transparent" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" width="300" height="200" /> 
 
 </div>
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Tekmily">
 
 
 <h1 align="center">
@@ -20,14 +19,12 @@
 
 
 
-<p align="center">
-  <a href="https://github.com/Tekmily"><img src="https://readme-typing-svg.herokuapp.com/?lines=Self%20Taught%20Programmer;Front%20End%20Developer;1.5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
-</p>
+
 
  
 
 <a href="https://komarev.com/ghpvc/?username=Tekmily">
-  <img align="right" src="https://komarev.com/ghpvc/?username=alsiam&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
+  <img align="right" src="https://komarev.com/ghpvc/?username=Tekmily&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
 
 
