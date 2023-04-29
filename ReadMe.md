@@ -32,16 +32,16 @@
 -->
 
 <!-- Intro  -->
-<h3 align="center">
+<!--<h3 align="center">
         <samp>&gt; Hey There!, I am
                 <b><a target="_blank" href="https://yusuftekmil.com">Yusuf Tekmil</a></b>
         </samp>
-</h3>
+</h3> -->
 
 
 <p align="center"> 
   <samp>
-    <a href="https://www.google.com/search?q=Yusuf+Tekmil">「 Google Me 」</a>
+    
     <br>
     「 I am a Full Stack Java Developer from <b>Turkey</b> 」
     <br>
@@ -54,7 +54,7 @@
   <br>
  ❤️ &emsp; Love to writing code and learning new features
   <br>
-  💬 Ask me anything about from <a href="https://github.com/Tekmily" title="Issues">Here</a>
+  💬 Ask me anything about from <a href="https://github.com/Tekmily" title="Issues">Here</a><a href="https://www.google.com/search?q=Yusuf+Tekmil">「 Google Me 」</a>
   <br>
   📫 How to reach me: <a href="mailto: yusuftekmil.yt@outlook.com.tr">yusuftekmil.yt@outlook.com.tr</a>
   <p align="center">
