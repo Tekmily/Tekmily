@@ -1,6 +1,8 @@
 <div align="center">
  
 <a href="#">![waving](https://capsule-render.vercel.app/api?type=waving&height=175&color=fa3e3e&fontColor=fff&fontSize=40&fontAlign=50&fontAlignY=25&descAlign=50&descAlignY=43)</a>
+ <img align="right" alt="GIF" color="transparent" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" width="300" height="200" /> 
+
 </div>
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=devakdogan.devakdogan">
 
@@ -10,7 +12,6 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I+am+Yusuf+TEKMİL...;Nice+to+meet+you!&center=true&size=29">
   </a>
 </h1>
-<img align="right" alt="GIF" color="transparent" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" width="300" height="200" /> 
 
 <h2 align="center"> About Me </h2>
 
