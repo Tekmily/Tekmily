@@ -44,6 +44,17 @@
     <br>
     「 I am a Full Stack Java Developer from <b>Turkey</b> 」
     <br>
+    
+  💻 I love writing code and learn anythings about it
+  <br>
+  ✌️ &emsp; Enjoy to do programming and sharing knowledge
+  <br>
+ ❤️ &emsp; Love to writing code and learning new features
+  <br>
+  💬 Ask me anything about from <a href="https://github.com/Tekmily" title="Issues">Here</a>
+  <br>
+  📫 How to reach me: <a href="mailto: yusuftekmil.yt@outlook.com.tr">yusuftekmil.yt@outlook.com.tr</a>
+  </p>
     <br>
   </samp>
 </p>
@@ -100,17 +111,7 @@
 <p align="center">
 <h5 align="center">
  
-  <br>
-  💻 I love writing code and learn anythings about it
-  <br>
-  ✌️ &emsp; Enjoy to do programming and sharing knowledge
-  <br>
- ❤️ &emsp; Love to writing code and learning new features
-  <br>
-  💬 Ask me anything about from <a href="https://github.com/Tekmily" title="Issues">Here</a>
-  <br>
-  📫 How to reach me: <a href="mailto: yusuftekmil.yt@outlook.com.tr">yusuftekmil.yt@outlook.com.tr</a>
-  </p>
+
   <p align="center">
  <a href="https://yusuftekmil.com" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="tekmily" />
