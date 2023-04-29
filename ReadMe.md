@@ -1,3 +1,7 @@
+<div align="center">
+ 
+<a href="#">![waving](https://capsule-render.vercel.app/api?type=waving&height=175&color=fa3e3e&text="Hi%20,%20i'm%20Yusufm%20TEKMİL"&desc=Full%20Stack%20Developer&fontColor=fff&fontSize=40&fontAlign=50&fontAlignY=25&descAlign=50&descAlignY=43)</a>
+</div>
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=devakdogan.devakdogan">
 
 <h1 align="center">
@@ -59,34 +63,6 @@
   <br>
    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Tekmily&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
-
-
-
-<!--
-❗ ➤ References used in this Repository:
-🔗 • https://github.com/kyechan99/capsule-render
-🔗 • https://github.com/antonkomarev/github-profile-views-counter
-🔗 • https://github.com/DenverCoder1/custom-icon-badges
-🔗 • https://github.com/DenverCoder1/github-readme-streak-stats
-🔗 • https://github.com/Ashutosh00710/github-readme-activity-graph
-🔗 • https://github.com/anuraghazra/github-readme-stats
-🔗 • https://github.com/alexandresanlim/Badges4-README.md-Profile
-🔗 • https://profilepicturemaker.com
-🔗 • https://devicon.dev
-🔗 • https://shields.io
-🔗 • https://giphy.com
-🔗 • https://emoji.gg
-🔗 • https://getemoji.com
--->
-
-
-
-<div align="center">
- 
-<a href="#">![waving](https://capsule-render.vercel.app/api?type=waving&height=175&color=fa3e3e&text="Hi%20,%20i'm%20Yusufm%20TEKMİL"&desc=Full%20Stack%20Developer&fontColor=fff&fontSize=40&fontAlign=50&fontAlignY=25&descAlign=50&descAlignY=43)</a>
-</div>
-
-
 
 - <img align="right" alt="GIF" color="transparent" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" width="300" height="200" />
 - 🔭 
