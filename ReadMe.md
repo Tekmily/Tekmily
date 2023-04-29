@@ -211,9 +211,9 @@
 
 
 <div align="center">
-[vsCode]: https://code.visualstudio.com/
+<!-- [vsCode]: https://code.visualstudio.com/
 [git]: https://git-scm.com/
-[github]: https://github.com/IbrahimTalha0
+[github]: https://github.com/IbrahimTalha0 -->
 
 <a href="#"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=539bf5" /></a>
 
@@ -222,11 +222,11 @@
 
 ### <a href="https://media.giphy.com/media/r6g6PL4fMY7NgruRTh/giphy.gif"><img align="center" src="https://media.giphy.com/media/r6g6PL4fMY7NgruRTh/giphy.gif" width="28" alt="Studing-gif"/></a> In what I study for now, I can quote:
  
-- **Algorithms & Programming Logic**
-- **Visual Programming Language**
-- **Software Engineering**
-- **Operational Systems**
-- **Databases**
+-- **Algorithms & Programming Logic**
+-- **Visual Programming Language**
+-- **Software Engineering**
+-- **Operational Systems**
+-- **Databases**
 
 
 
