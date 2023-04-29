@@ -145,7 +145,7 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
-<p align=center>
+<!--<p align=center>
   <div align=center>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
       <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=Tekmily&theme=react&border=61dafb&hide_border=true" alt="Tekmily" />
@@ -162,7 +162,7 @@
   </div>
   <br>
    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Tekmily&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-</p>
+</p>-->
 
 
 
@@ -170,13 +170,13 @@
 
 
 <p align="center">
-  <a href="https://github.com/alsiam">
+  <a href="https://github.com/Tekmily">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tekmily&theme=radical&border=7F3FBF&background=0D1117" alt="Yusuf's GitHub streak"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/alsiam">
+  <a href="https://github.com/Tekmily">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tekmily&theme=radical" alt="Yusuf TEKMIL's GitHub Contribution"/>
   </a>
 </p>
