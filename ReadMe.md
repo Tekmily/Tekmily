@@ -39,13 +39,10 @@
 </h3> -->
 
 
-<p align="center"> 
-  <samp>
-    💻 Full Stack Java Developer 
-   </samp>
-   </p>
+
    <p align="center">
 <h5 align="center">
+ 💻 Full Stack Java Developer 
  <br>
   💻 I love writing code and learn anythings about it
   <br>
