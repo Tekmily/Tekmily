@@ -182,13 +182,13 @@
 </a>
 
 
-![Al Siam's Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Tekmily&custom_title=Yusuf%20TEKMIL's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![Yusuf TEKMIL's Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Tekmily&custom_title=Yusuf%20TEKMIL's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
 
 
 
 
-<h2 align="center"> About Me </h2>
+<!--<h2 align="center"> About Me </h2>
 
 <p align="center">
 <a href="https://twitter.com/yusuftekmil" target="_blank">
@@ -199,14 +199,14 @@
   </a>
  <a href="https://instagram.com/yusuftekmil" target="_blank">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=071A2C" alt="Instagram"/>
-  </a>-->
+  </a>
   <a href="https://medium.com/@yusuftekmil.yt" target="_blank">
     <img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white&color=071A2C" alt="Medium"/>
   </a>
   <a href="https://www.facebook.com/yusuftekmil" target="_blank">
     <img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white&color=071A2C" alt="Facebook"/>
   </a>
-</p>
+</p> -->
 
 
 
