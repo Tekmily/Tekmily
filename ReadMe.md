@@ -31,7 +31,7 @@
   <samp>
     <a href="https://www.google.com/search?q=Yusuf+Tekmil">「 Google Me 」</a>
     <br>
-    「 I am a Full Stack Java Developer from <b>Bangladesh</b> 」
+    「 I am a Full Stack Java Developer from <b>Turkey</b> 」
     <br>
     <br>
   </samp>
