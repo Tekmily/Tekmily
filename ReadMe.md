@@ -120,7 +120,7 @@
 [![Yusuf Tekmil Teminal](https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=alsiam.github.io&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/alsiam/alsiam.github.io)-->
 
 
-  <hr>
+  
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <br>
 <p align="center">
@@ -132,7 +132,7 @@
   <img width="50" title="Prettier" alt="Prettier Logo" src="https://prettier.io/icon.png">
 </a>
 <br />
-<hr>
+
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
