@@ -29,23 +29,14 @@
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <br>
 <p align="center">
- <code><img title="Java" height="25" src="images/java-original.svg"></code>
-  <code><img title="Javascript" height="25" src="images/javascript.svg"></code>
-   <code><img title="HTML5" height="25" src="images/html5.svg"></code>
-  <code><img title="CSS" height="25" src="images/css.svg"></code>
-  <code><img title="SASS" height="25" src="images/sass.svg"></code>
-  <code><img title="React" height="25" src="images/react-original.svg"></code>
-  <code><img title="Redux" height="25" src="images/redux.svg"></code>
-  <code><img title="Git" height="25" src="images/git-original.svg"></code>
-  <code><img title="GitHub" height="25" src="images/github.svg"></code>
-  <code><img title="MySQL" height="25" src="images/mysql.svg"></code>
-  <code><img title="PostgreSQL" height="25" src="images/postgresql.svg"></code>
-  <code><img title="MongoDB" height="25" src="images/mongodb.png"></code>
-  <code><img title="JSON" height="25" src="images/json.svg"></code>
-  <code><img title="Problem Solving" height="25" src="images/problemSolving.png"></code>
-  <code><img title="Visual Studio Code" height="25" src="images/vscode.png"></code>
-  <code><img title="Jira Software" height="25" src="images/jira.svg"></code>
+  <a href="">
+    <img src="https://skillicons.dev/icons?i=java,spring,maven,hibernate,react,javascript,html,bootstrap,css,vscode,idea,visualstudio,github,postgres,mysql,mongodb,docker,aws,nodejs,jquery,githubactions,git,discord,powershell,kubernetes,ps,linux,wordpress,stackoverflow" />
+  </a>
 </p>
+<a href="https://prettier.io">
+  <img width="50" title="Prettier" alt="Prettier Logo" src="https://prettier.io/icon.png">
+</a>
+<br />
 <hr>
 
 <h2 align="center">⚡ Stats ⚡</h2>
@@ -139,15 +130,7 @@
 
 ### 🔧 Languages and Tools:
 
-<p align="center">
-  <a href="">
-    <img src="https://skillicons.dev/icons?i=java,spring,maven,hibernate,react,javascript,html,bootstrap,css,vscode,idea,visualstudio,github,postgres,mysql,mongodb,docker,aws,nodejs,jquery,githubactions,git,discord,powershell,kubernetes,ps,linux,wordpress,stackoverflow" />
-  </a>
-</p>
-<a href="https://prettier.io">
-  <img width="50" title="Prettier" alt="Prettier Logo" src="https://prettier.io/icon.png">
-</a>
-<br />
+
 
 
 
