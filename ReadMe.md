@@ -210,7 +210,7 @@
 
 
 
-
+<div align="center">
 [vsCode]: https://code.visualstudio.com/
 [git]: https://git-scm.com/
 [github]: https://github.com/IbrahimTalha0
@@ -233,4 +233,5 @@
 
 
 <a href="#"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=fa3e3e" /></a>
+ </div>
 
