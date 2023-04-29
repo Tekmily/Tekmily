@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+İsmail+AKDOĞAN...;Nice+to+meet+you!&center=true&size=29">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Yusuf+TEKMİL...;Nice+to+meet+you!&center=true&size=29">
   </a>
 </h1>
 <h2 align="center"> About Me </h2>
@@ -15,14 +15,14 @@
 <br>
 <p align="center">
 <h5 align="center">
-  Hi, I'm İsmail AKDOĞAN, Full Stack Java Developer.
+  Hi, I'm Yusuf TEKMİL, Full Stack Java Developer.
   <br>
   <br>
   💻 I love writing code and learn anythings about it
   <br>
-  💬 Ask me anything about from <a href="https://github.com/devakdogan/devakdogan/issues" title="Issues">Here</a>
+  💬 Ask me anything about from <a href="https://github.com/Tekmily" title="Issues">Here</a>
   <br>
-  📫 How to reach me: <a href="mailto: dev.akdogan@gmail.com">dev.akdogan@gmail.com</a>
+  📫 How to reach me: <a href="mailto: yusuftekmil.yt@outlook.com.tr">yusuftekmil.yt@outlook.com.tr</a>
   </p>
   
   <hr>
