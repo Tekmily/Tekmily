@@ -44,7 +44,9 @@
     <br>
     「 I am a Full Stack Java Developer from <b>Turkey</b> 」
     <br>
-    
+   <p align="center">
+<h5 align="center">
+ 
   💻 I love writing code and learn anythings about it
   <br>
   ✌️ &emsp; Enjoy to do programming and sharing knowledge
@@ -54,8 +56,27 @@
   💬 Ask me anything about from <a href="https://github.com/Tekmily" title="Issues">Here</a>
   <br>
   📫 How to reach me: <a href="mailto: yusuftekmil.yt@outlook.com.tr">yusuftekmil.yt@outlook.com.tr</a>
-  </p>
-    <br>
+  <p align="center">
+ <a href="https://yusuftekmil.com" target="blank">
+  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="tekmily" />
+ </a>
+ <a href="https://www.linkedin.com/in/yusuf-tekmil-developer" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="tekmily"/>
+ </a>
+ <a href="https://dev.to/tekmily" target="_blank">
+  <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="tekmily" />
+ </a>
+ <a href="https://twitter.com/alsiam_dev" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+ </a>
+ <a href="https://instagram.com/alsiam.dev" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="tekmily" />
+ </a> 
+ <a href="https://facebook.com/alsiam.dev" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="tekmily"  />
+  </a> 
+</p>
+<br />
   </samp>
 </p>
 
@@ -108,31 +129,7 @@
 
 
 <br />
-<p align="center">
-<h5 align="center">
- 
 
-  <p align="center">
- <a href="https://yusuftekmil.com" target="blank">
-  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="tekmily" />
- </a>
- <a href="https://www.linkedin.com/in/yusuf-tekmil-developer" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="tekmily"/>
- </a>
- <a href="https://dev.to/tekmily" target="_blank">
-  <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="tekmily" />
- </a>
- <a href="https://twitter.com/alsiam_dev" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
- </a>
- <a href="https://instagram.com/alsiam.dev" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="tekmily" />
- </a> 
- <a href="https://facebook.com/alsiam.dev" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="tekmily"  />
-  </a> 
-</p>
-<br />
   <hr>
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <br>
