@@ -41,13 +41,12 @@
 
 <p align="center"> 
   <samp>
-    
-    <br>
-    「 I am a Full Stack Java Developer from <b>Turkey</b> 」
-    <br>
+    💻 Full Stack Java Developer 
+   </samp>
+   </p>
    <p align="center">
 <h5 align="center">
- 
+ <br>
   💻 I love writing code and learn anythings about it
   <br>
   ✌️ &emsp; Enjoy to do programming and sharing knowledge
