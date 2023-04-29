@@ -67,13 +67,13 @@
  <a href="https://dev.to/tekmily" target="_blank">
   <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="tekmily" />
  </a>
- <a href="https://twitter.com/alsiam_dev" target="_blank">
+ <a href="https://twitter.com/DevYusuftekmil" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
  </a>
- <a href="https://instagram.com/alsiam.dev" target="_blank">
+ <a href="https://www.instagram.com/devyusuftekmil/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="tekmily" />
  </a> 
- <a href="https://facebook.com/alsiam.dev" target="_blank">
+ <a href="https://facebook.com/devyusuftekmil" target="_blank">
   <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="tekmily"  />
   </a> 
 </p>
