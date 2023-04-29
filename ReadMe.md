@@ -164,6 +164,72 @@
    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Tekmily&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
 
+
+
+
+
+
+<p align="center">
+  <a href="https://github.com/alsiam">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tekmily&theme=radical&border=7F3FBF&background=0D1117" alt="Yusuf's GitHub streak"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/alsiam">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tekmily&theme=radical" alt="Yusuf TEKMIL's GitHub Contribution"/>
+  </a>
+</p>
+
+<a> 
+    <a href="https://github.com/Tekmily"><img alt="Yusuf TEKMIL's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Tekmily&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/alsiam"><img alt="Yusuf TEKMIL's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Tekmily&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <br/>
+</a>
+
+
+![Al Siam's Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Tekmily&custom_title=Yusuf%20TEKMIL's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+
+
+
+<div align="center">
+ 
+<a href="#">![waving](https://capsule-render.vercel.app/api?type=waving&height=175&color=fa3e3e&fontColor=fff&fontSize=40&fontAlign=50&fontAlignY=25&descAlign=50&descAlignY=43)</a>
+ <img align="center" alt="GIF" color="transparent" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" width="300" height="200" /> 
+
+</div>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Tekmily">
+
+
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I+am+Yusuf+TEKMİL...;Nice+to+meet+you!&center=true&size=29">
+  </a>
+</h1>
+
+<h2 align="center"> About Me </h2>
+
+<p align="center">
+<a href="https://twitter.com/yusuftekmil" target="_blank">
+    <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=071A2C" alt="Twitter"/>
+  </a> 
+  <a href="https://www.linkedin.com/in/yusuf-tekmil-developer" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=071A2C" alt="LinkedIn"/>
+  </a>
+ <a href="https://instagram.com/yusuftekmil" target="_blank">
+    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=071A2C" alt="Instagram"/>
+  </a>-->
+  <a href="https://medium.com/@yusuftekmil.yt" target="_blank">
+    <img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white&color=071A2C" alt="Medium"/>
+  </a>
+  <a href="https://www.facebook.com/yusuftekmil" target="_blank">
+    <img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white&color=071A2C" alt="Facebook"/>
+  </a>
+</p>
+
+
+
+
 [vsCode]: https://code.visualstudio.com/
 [git]: https://git-scm.com/
 [github]: https://github.com/IbrahimTalha0
