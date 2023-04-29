@@ -28,7 +28,7 @@
 </a>
 
 
-[![wakatime](https://wakatime.com/badge/user/eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc.svg)](https://wakatime.com/@eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc)
+[![wakatime]<a href="https://wakatime.com/@17c1692d-354d-4442-a8eb-a93eeff4fc9d"><img src="https://wakatime.com/badge/user/17c1692d-354d-4442-a8eb-a93eeff4fc9d.svg" alt="Total time coded since Mar 10 2023" /></a>
 
 <!-- Intro  -->
 <h3 align="center">
