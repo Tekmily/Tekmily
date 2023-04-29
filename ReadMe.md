@@ -1,5 +1,5 @@
 <div align="center">
- <a href="#"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=175&color=fa3e3e&fontColor=fff&fontSize=40&fontAlign=50&fontAlignY=25&descAlign=50&descAlignY=43" /></a>
+ <a href="#"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=175&color=dof2d9&fontColor=fff&fontSize=40&fontAlign=50&fontAlignY=25&descAlign=50&descAlignY=43" /></a>
 <!--<a href="#" width="100%">![waving](https://capsule-render.vercel.app/api?type=waving&height=175&color=fa3e3e&fontColor=fff&fontSize=40&fontAlign=50&fontAlignY=25&descAlign=50&descAlignY=43)</a>-->
  <img align="center" alt="GIF" color="transparent" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" width="300" height="200"  /> 
 
