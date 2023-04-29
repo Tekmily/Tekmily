@@ -99,8 +99,7 @@
 <br />
 <p align="center">
 <h5 align="center">
-  Hi, I'm Yusuf TEKMİL, Full Stack Java Developer.
-  <br>
+ 
   <br>
   💻 I love writing code and learn anythings about it
   <br>
