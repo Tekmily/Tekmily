@@ -53,6 +53,8 @@
   💬 Ask me anything about from <a href="https://github.com/Tekmily" title="Issues">Here</a><a href="https://www.google.com/search?q=Yusuf+Tekmil">「 Google Me 」</a>
   <br>
   📫 How to reach me: <a href="mailto: yusuftekmil.yt@outlook.com.tr">yusuftekmil.yt@outlook.com.tr</a>
+ <br>
+ <br>
   <p align="center">
  <a href="https://yusuftekmil.com" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="tekmily" />
