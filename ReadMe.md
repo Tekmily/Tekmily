@@ -1,6 +1,6 @@
 <div align="center">
  <a href="#"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=175&color=98D8AA&fontColor=fff&fontSize=40&fontAlign=50&fontAlignY=25&descAlign=50&descAlignY=43" /></a>
-<a href="#" width="100%">"https://capsule-render.vercel.app/api?type=waving&height=175&color=fa3e3e&fontColor=fff&fontSize=40&fontAlign=50&fontAlignY=25&descAlign=50&descAlignY=43"</a>
+
  <img align="center" alt="GIF" color="transparent" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" width="300" height="200"  /> 
 
 </div>
@@ -27,9 +27,9 @@
   <img align="right" src="https://komarev.com/ghpvc/?username=Tekmily&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
 
-<!-- Programlamada kaç saat çalıştığımı gösteren göster ge puanı arttırınca aç
+<!-- Programlamada kaç saat çalıştığımı gösteren göster ge puanı arttırınca aç-->
 <a href="https://wakatime.com/@17c1692d-354d-4442-a8eb-a93eeff4fc9d"><img src="https://wakatime.com/badge/user/17c1692d-354d-4442-a8eb-a93eeff4fc9d.svg" alt="Total time coded since Mar 10 2023" /></a>
--->
+
 
 <!-- Intro  -->
 <!--<h3 align="center">
