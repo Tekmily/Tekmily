@@ -74,6 +74,9 @@
  <a href="https://facebook.com/devyusuftekmil" target="_blank">
   <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="tekmily"  />
   </a> 
+   <a href="https://www.youtube.com/@YusufTekmil" target="_blank">
+  <img src="https://img.shields.io/badge/Youtube-20BEFF?&style=for-the-badge&logo=youtube&logoColor=white" alt="tekmily"  />
+  </a> 
 </p>
 <br />
   </samp>
