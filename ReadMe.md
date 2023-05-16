@@ -85,7 +85,7 @@
 
  <h2 align="center">About me</h2>
   <p align="center">
- Graduate software developer in the field of computer programming. Interest in technology has allowed to continuously improve by taking courses and participating in projects. As a Full Stack Java Developer, holding advanced level backend Java Developer and Frontend React Developer certificates from Techproeducation Bootcamp. Worked on lets rentalcar and gaming promarket projects. Knowledgeable in Java, Spring Framework,Microservice,Postgresql, MongoDB, React.js, Software Architecture, and other related topics. Dynamic, open-minded, and passionate software developer.
+ Graduate software developer in the field of computer programming. Interest in technology has allowed to continuously improve by taking courses and participating in projects. As a Full Stack Java Developer, holding advanced level backend Java Developer and Frontend React Developer certificates from Techproeducation Bootcamp. Worked on lets rentalcar and gaming promarket projects. Knowledgeable in Java, Spring Framework,Microservice,asp.net,Postgresql, MongoDB, React.js, Software Architecture, and other related topics. Dynamic, open-minded, and passionate software developer.
  </p>
 
 <br/>
