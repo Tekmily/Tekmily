@@ -181,8 +181,8 @@ Software developer in the field of computer programming. Interest in technology 
 </a>
 
 
-![Yusuf TEKMIL's Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Tekmily&custom_title=Yusuf%20TEKMIL's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
-
+<!--![Yusuf TEKMIL's Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Tekmily&custom_title=Yusuf%20TEKMIL's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+-->
 
 
 
