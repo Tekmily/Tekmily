@@ -129,7 +129,7 @@
 <br>
 <p align="center">
   <a href="">
-    <img src="https://skillicons.dev/icons?i=java,csharp,dotnet,spring,maven,hibernate,react,javascript,html,bootstrap,css,vscode,idea,visualstudio,github,postgres,mysql,mongodb,docker,aws,nodejs,jquery,githubactions,git,discord,powershell,kubernetes,ps,linux,wordpress,stackoverflow" />
+    <img src="https://skillicons.dev/icons?i=java,c#,dotnet,spring,maven,hibernate,react,javascript,html,bootstrap,css,vscode,idea,visualstudio,github,postgres,mysql,mongodb,docker,aws,nodejs,jquery,githubactions,git,discord,powershell,kubernetes,ps,linux,wordpress,stackoverflow" />
   </a>
 </p>
 <a href="https://prettier.io">
