@@ -132,7 +132,6 @@
     <img src="https://skillicons.dev/icons?i=java,cs,dotnet,spring,maven,hibernate,react,javascript,html,bootstrap,css,vscode,idea,visualstudio,github,postgres,mysql,mongodb,docker,azure,aws,nodejs,jquery,githubactions,git,discord,powershell,kubernetes,ps,xd,linux,wordpress,stackoverflow,postman," />
   </a>
 </p>
-  <img width="50" title="Prettier" alt="Prettier Logo" src="https://prettier.io/icon.png">
 </a>
 <br />
 
