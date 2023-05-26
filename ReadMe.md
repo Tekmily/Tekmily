@@ -87,7 +87,7 @@
   <p align="center">
    With 2 years of experience, I have been actively involved in the software development industry as a dynamic, open-minded, and passionate developer. My strong interest in technology has allowed me to continuously enhance my skills through participation in courses and projects. I hold advanced-level certificates in Backend Java Development and Frontend React Development from Techproeducation Bootcamp, as well as certifications in Asp.net Core and Microsoft Azure from BTK Academy.
 
-    During my tenure as a Full Stack Java Developer, I have contributed to projects such as letsrentalcar and gaming promarket. I possess comprehensive knowledge in Java, Spring Framework, Microservices, Postgresql, MongoDB, React.js, Software Architecture, and other relevant topics. Additionally, I have hands-on experience with Asp.net Core and Microsoft Azure technologies. I strive to stay updated with the latest advancements in these areas and continuously improve my expertise.
+   During my tenure as a Full Stack Java Developer, I have contributed to projects such as letsrentalcar and gaming promarket. I possess comprehensive knowledge in Java, Spring Framework, Microservices, Postgresql, MongoDB, React.js, Software Architecture, and other relevant topics. Additionally, I have hands-on experience with Asp.net Core and Microsoft Azure technologies. I strive to stay updated with the latest advancements in these areas and continuously improve my expertise.
 
   I am determined to progress in the software development industry and actively seek new opportunities to further enhance my skills. I am collaborative, adept at teamwork, and possess strong problem-solving abilities.
 
