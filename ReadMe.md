@@ -213,9 +213,11 @@
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-<!--<h2 align="center">🐦 Latest Tweet</h2>
+<!--
+<h2 align="center">🐦 Latest Tweet</h2>
 
-[![](https://gtce.itsvg.in/api?username=https://twitter.com/devyusuftekmil)](https://github.com/VishwaGauravIn/github-twitter-card-embed)-->
+[![](https://gtce.itsvg.in/api?username=https://twitter.com/devyusuftekmil)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+-->
 
 
 
