@@ -169,6 +169,9 @@
     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tekmily&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
     </a>
+
+![](https://github-contributor-stats.vercel.app/api?username=Tekmily&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+
   </div>
   <br>
    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Tekmily&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
@@ -215,7 +218,7 @@
 
 <h2 align="center">🔝 Top Contributed Repo</h2>
 
-![](https://github-contributor-stats.vercel.app/api?username=Tekmily&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+
 
 
 
