@@ -209,16 +209,19 @@
 
 
 <h2 align="center">✍️ Random Dev Quote</h2>
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 
 <h2 align="center">🔝 Top Contributed Repo</h2>
+
 ![](https://github-contributor-stats.vercel.app/api?username=Tekmily&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 
 <h2 align="center">😂 Random Dev Meme</h2>
-<img src="https://rm.up.railway.app/" width="512px"/>
 
+<img src="https://rm.up.railway.app/" width="512px"/>
+[![](https://visitcount.itsvg.in/api?id=Tekmily&icon=5&color=3)](https://visitcount.itsvg.in)
 
 
 <!--![Yusuf TEKMIL's Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Tekmily&custom_title=Yusuf%20TEKMIL's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
