@@ -41,7 +41,7 @@
 </h3> -->
 
 
-# 💫 About Me:
+#                                                        💫 About Me:
    <p align="center">
 <h5 align="center">
  💻 Full Stack Java Developer 
@@ -56,7 +56,7 @@
   <br>
   📫 How to reach me: <a href="mailto: yusuftekmil.yt@outlook.com.tr">yusuftekmil.yt@outlook.com.tr</a>
  <br>
-  <h2 align="center">About me</h2>
+  <h2 align="center"></h2>
   <p align="center">
    With 2 years of experience, I have been actively involved in the software development industry as a dynamic, open-minded, and passionate developer. My strong interest in technology has allowed me to continuously enhance my skills through participation in courses and projects. I hold advanced-level certificates in Backend Java Development and Frontend React Development from Techproeducation Bootcamp, as well as certifications in Asp.net Core and Microsoft Azure from BTK Academy.
 
