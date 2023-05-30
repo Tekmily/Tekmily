@@ -1,7 +1,9 @@
 <div align="center">
  <a href="#"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=175&color=98D8AA&fontColor=fff&fontSize=40&fontAlign=50&fontAlignY=25&descAlign=50&descAlignY=43" /></a>
 
- <img align="center" alt="GIF" color="transparent" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" width="300" height="200"  /> 
+
+<a href="https://app.daily.dev/tekmily"><img src="https://api.daily.dev/devcards/305d6228eca94ae3879d77376815192a.png?r=6kv" width="300" alt="Yusuf TEKMİL's Dev Card"/></a> 
+<img align="center" alt="GIF" color="transparent" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" width="300" height="200"  /> 
 
 </div>
 
@@ -17,7 +19,6 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h2>
 
-<a href="https://app.daily.dev/tekmily"><img src="https://api.daily.dev/devcards/305d6228eca94ae3879d77376815192a.png?r=6kv" width="400" alt="Yusuf TEKMİL's Dev Card"/></a>
 
 
 
