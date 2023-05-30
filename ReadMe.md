@@ -17,7 +17,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h2>
 
-
+<a href="https://app.daily.dev/tekmily"><img src="https://api.daily.dev/devcards/305d6228eca94ae3879d77376815192a.png?r=6kv" width="400" alt="Yusuf TEKMİL's Dev Card"/></a>
 
 
 
