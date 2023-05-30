@@ -24,6 +24,11 @@
 
  
 
+
+
+#                                                        💫 About Me:
+
+
 <a href="https://komarev.com/ghpvc/?username=Tekmily">
   <img align="right" src="https://komarev.com/ghpvc/?username=Tekmily&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
@@ -40,8 +45,6 @@
         </samp>
 </h3> -->
 
-
-#                                                        💫 About Me:
    <p align="center">
 <h5 align="center">
  💻 Full Stack Java Developer 
