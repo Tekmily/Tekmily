@@ -233,7 +233,7 @@
 - **Operational Systems**
 - **Databases**
 
-<a href="https://app.daily.dev/tekmily"><img src="https://api.daily.dev/devcards/305d6228eca94ae3879d77376815192a.png?r=6kv" align="center" width="400" alt="Yusuf TEKMİL's Dev Card"/></a> 
+<a href="https://app.daily.dev/tekmily"><img src="https://api.daily.dev/devcards/305d6228eca94ae3879d77376815192a.png?r=6kv" align="center" width="100" alt="Yusuf TEKMİL's Dev Card"/></a> 
 
 
 
