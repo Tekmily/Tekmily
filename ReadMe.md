@@ -216,7 +216,7 @@
 
 <h2 align="center">😂 Random Dev Meme</h2>
 <img src="https://rm.up.railway.app/" width="512px"/>
-[![](https://visitcount.itsvg.in/api?id=Tekmily&icon=5&color=3)](https://visitcount.itsvg.in)
+
 
 
 <!--![Yusuf TEKMIL's Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Tekmily&custom_title=Yusuf%20TEKMIL's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
