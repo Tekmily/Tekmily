@@ -199,10 +199,12 @@
 
 
 <h2 align="center">🏆 GitHub Trophies</h2>
+
 ![](https://github-profile-trophy.vercel.app/?username=Tekmily&theme=gitdimmed&no-frame=false&no-bg=true&margin-w=4)
 
 
 <h2 align="center">🐦 Latest Tweet</h2>
+
 [![](https://gtce.itsvg.in/api?username=https://twitter.com/devyusuftekmil)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
 
