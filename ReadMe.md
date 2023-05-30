@@ -205,18 +205,22 @@
 
 ![](https://github-profile-trophy.vercel.app/?username=Tekmily&theme=gitdimmed&no-frame=false&no-bg=true&margin-w=4)
 
+<h2 align="center">🔝 Top Contributed Repo</h2>
+
+![](https://github-contributor-stats.vercel.app/api?username=Tekmily&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+
+<h2 align="center">✍️ Random Dev Quote</h2>
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 <h2 align="center">🐦 Latest Tweet</h2>
 
 [![](https://gtce.itsvg.in/api?username=https://twitter.com/devyusuftekmil)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
 
-<h2 align="center">✍️ Random Dev Quote</h2>
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 
-<h2 align="center">🔝 Top Contributed Repo</h2>
+
 
 
 
