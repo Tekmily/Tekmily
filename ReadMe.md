@@ -59,6 +59,7 @@
   <br>
   📫 How to reach me: <a href="mailto: yusuftekmil.yt@outlook.com.tr">yusuftekmil.yt@outlook.com.tr</a>
  <br>
+ <br>
   <p align="center">
 ✍️ With 2 years of experience, I have been actively involved in the software development industry as a dynamic, open-minded, and passionate developer. My strong interest in technology has allowed me to continuously enhance my skills through participation in courses and projects. I hold advanced-level certificates in Backend Java Development and Frontend React Development from Techproeducation Bootcamp, as well as certifications in Asp.net Core and Microsoft Azure from BTK Academy.
 
