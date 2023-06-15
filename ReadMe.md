@@ -30,7 +30,6 @@
 
 <h2 align="center">💫 About Me:</h2>
 
-<div class="badge-base LI-profile-badge" data-locale="tr_TR" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="yusuf-tekmil-developer" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://tr.linkedin.com/in/yusuf-tekmil-developer?trk=profile-badge">Yusuf TEKMİL</a></div>
 
               
 <a href="https://komarev.com/ghpvc/?username=Tekmily">
