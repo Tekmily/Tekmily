@@ -72,7 +72,7 @@
  
  
   <p align="center">
- <a href="https://yusuftekmil.com" target="blank">
+ <a href="https://yusuftekmil.net" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="tekmily" />
  </a>
  <a href="https://www.linkedin.com/in/yusuf-tekmil-developer" target="_blank">
