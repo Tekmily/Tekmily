@@ -36,7 +36,7 @@
 <!-- Intro  -->
 <!--<h3 align="center">
         <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://yusuftekmil.com">Yusuf Tekmil</a></b>
+                <b><a target="_blank" href="https://yusuftekmil.net">Yusuf Tekmil</a></b>
         </samp>
 </h3> -->
 
